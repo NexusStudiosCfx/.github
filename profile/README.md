@@ -11,6 +11,7 @@ We make resources for FiveM servers and build them like products: every outcome 
 | | |
 |---|---|
 | **[Nexus UI](https://github.com/NexusStudiosCfx/nexus-ui)** | A UI framework for FiveM. Components in `.nexus` files that compile to direct DOM updates, one typed contract that validates every message on the server, and screens that cost nothing while they are closed. MIT. |
+| **[Nexus Shop](https://github.com/NexusStudiosCfx/nexus_shop)** | A simple shop built with Nexus UI, as an example of a real resource: a clerk, an ox_target option, ox_inventory items, cash or card. Free, with a zip that runs as it is. |
 
 ### What we build
 
